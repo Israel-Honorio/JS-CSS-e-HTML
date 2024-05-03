@@ -1,0 +1,52 @@
+
+body{
+    background-color: #420303;
+    color: white;
+    margin: 0;
+}
+
+h1, h2{
+    color: #ff0000;
+    text-align: center;                   
+}
+h1{
+    text-transform:uppercase;
+}
+p{
+    text-align: justify;
+
+}
+.destaque{
+    background-color: brown;
+    color: white;
+    padding: 20px;
+    margin-bottom: 20px;
+}
+#img-logo{
+    width: 50px;
+    
+}
+nav li{
+    display: inline;
+    margin-left: 20px;
+    color: brown;
+    font-weight: bold;
+    border: 2px solid brown;
+    padding: 5px;
+}
+nav{
+    float: right;
+}
+main{
+    margin: auto 20%;
+    
+}
+header{
+    background-color: white;
+    color: black;
+}
+footer{
+    background-color: azure;
+    color: black;
+
+}
